@@ -140,5 +140,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Custom Files:
+# Custom:
+.idea
+.idea/
 .xd
