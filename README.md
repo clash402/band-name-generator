@@ -1,7 +1,8 @@
 # Band Name Generator
 
 ## Summary
-Generate your own band name!
+Generate your own band name! [Try it out](https://repl.it/@clash402/band-name-generator)
 
 ## Instructions
-- Follow the prompts to generate a name
+- Tap the Run button
+- Follow the prompts in the console to generate a name
