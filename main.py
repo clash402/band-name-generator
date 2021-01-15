@@ -10,7 +10,5 @@ while app_is_in_progress:
 
     print("\nCongratulations! Your band name is " + band_name + ".")
 
-    res = input("Try again? (y/n)\n")
-
-    if res != "y":
+    if input("Try again? (y/n)\n").lower() != "y":
         app_is_in_progress = False
